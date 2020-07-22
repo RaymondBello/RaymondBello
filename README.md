@@ -1,6 +1,6 @@
 ### Hi, I'm Raymond Bello! 👋
 
-- 🔭 I’m currently working on a Autonomonous vehicular control system
+- 🔭 I’m currently working on an Autonomonous vehicular control system
 - 🌱 I’m currently learning Tensorflow, Keras and CSS
 - 👯 I’m looking to collaborate on Machine Learning and Computer Vision
 - 🤔 I’m looking for help with Keras and Open
