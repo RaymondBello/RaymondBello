@@ -1,4 +1,4 @@
-### Hi, I'm Raymond Bello! 👋
+### Hi, I'm Raymond! 👋
 
 - 🔭 I’m currently working on an Autonomonous flight control system 
 - 🌱 I’m currently learning Haskell, Tensorflow, Keras and C#
