@@ -1,4 +1,4 @@
-### Hi, I'm Raymond! 👋
+### Hi, I'm Ray! 👋
 
 - 🔭 I’m currently working on an Autonomonous flight control system 
 - 🌱 I’m currently learning Haskell, Tensorflow, Keras and C#
