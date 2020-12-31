@@ -1,7 +1,7 @@
 ### Hi, I'm Ray! 👋
 
 - 🔭 I’m currently working on an Autonomous flight control system 
-- 🌱 I’m currently learning Haskell, Tensorflow, Keras and C#
+- 🌱 I’m currently learning Haskell & C#
 - 👯 I’m looking to collaborate on Control System Design and Machine Learning
 - 🤔 I’m looking for help with Haskell and Swift
 - 💬 Ask me about Control System Tuning and Algorithm Design 
